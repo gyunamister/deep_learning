@@ -1,0 +1,5 @@
+VOC2007_test/
+VOC2007_train/
+*.jpg
+*.hdf5
+*.model
